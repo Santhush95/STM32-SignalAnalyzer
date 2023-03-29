@@ -1,0 +1,11 @@
+C:\Swiss Ranks\Projects\Flow Sensor set-up solution\Visual Studio Apps\Signal Analyzer\bin\Debug\Signal Analyzer.exe.config
+C:\Swiss Ranks\Projects\Flow Sensor set-up solution\Visual Studio Apps\Signal Analyzer\bin\Debug\Signal Analyzer.exe
+C:\Swiss Ranks\Projects\Flow Sensor set-up solution\Visual Studio Apps\Signal Analyzer\bin\Debug\Signal Analyzer.pdb
+C:\Swiss Ranks\Projects\Flow Sensor set-up solution\Visual Studio Apps\Signal Analyzer\obj\Debug\Signal Analyzer.csproj.AssemblyReference.cache
+C:\Swiss Ranks\Projects\Flow Sensor set-up solution\Visual Studio Apps\Signal Analyzer\obj\Debug\Signal Analyzer.csproj.SuggestedBindingRedirects.cache
+C:\Swiss Ranks\Projects\Flow Sensor set-up solution\Visual Studio Apps\Signal Analyzer\obj\Debug\Signal_Analyzer.Form1.resources
+C:\Swiss Ranks\Projects\Flow Sensor set-up solution\Visual Studio Apps\Signal Analyzer\obj\Debug\Signal_Analyzer.Properties.Resources.resources
+C:\Swiss Ranks\Projects\Flow Sensor set-up solution\Visual Studio Apps\Signal Analyzer\obj\Debug\Signal Analyzer.csproj.GenerateResource.cache
+C:\Swiss Ranks\Projects\Flow Sensor set-up solution\Visual Studio Apps\Signal Analyzer\obj\Debug\Signal Analyzer.csproj.CoreCompileInputs.cache
+C:\Swiss Ranks\Projects\Flow Sensor set-up solution\Visual Studio Apps\Signal Analyzer\obj\Debug\Signal Analyzer.exe
+C:\Swiss Ranks\Projects\Flow Sensor set-up solution\Visual Studio Apps\Signal Analyzer\obj\Debug\Signal Analyzer.pdb
