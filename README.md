@@ -13,7 +13,7 @@ Possible to upgrade with more functionalities than in a laboratory spectrum anal
 ```mermaid
 graph LR
 A[Noisy <br> Sensor <br> Input] -- Probe to ADC pin --> B{STM32F401 <br> Micro Controller <br> ADC/ FFT}
-B -- UART Transmission --> D(PC GUI)
+B -- UART Transmission --> D(PC <br> Frequency Spectrum <br> GUI)
 
 ```
 
